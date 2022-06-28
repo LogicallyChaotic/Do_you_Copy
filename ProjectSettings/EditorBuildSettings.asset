@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startScreen.unity
+    guid: ee3c44c50e4713e4d9974c9975e0d692
+  - enabled: 1
+    path: Assets/Scenes/PauseTileOnly/Level1.unity
+    guid: 0b23c9ec80e167c41943d754dfb8c71d
+  - enabled: 1
+    path: Assets/Scenes/PauseTileOnly/Level2.unity
+    guid: a3ecd08856dad5e498257fbf3694cee2
+  - enabled: 1
+    path: Assets/Scenes/PauseTileOnly/medHard.unity
+    guid: 79096e8fb6d42e64d97e0a892f7f537b
+  - enabled: 1
+    path: Assets/Scenes/PauseTileOnly/fakeoutSimple.unity
+    guid: 25e3dae1a50046b4ebbbe21d61205e6c
+  - enabled: 1
+    path: Assets/Scenes/PauseTileOnly/medHard2.unity
+    guid: b2140d09ac3b56248a452596641e9757
+  - enabled: 1
+    path: Assets/Scenes/PauseTileOnly/5.unity
+    guid: ee3a562dfa8b13a41b2a32f533a1964e
+  - enabled: 1
+    path: Assets/Scenes/PauseTileOnly/fakeout.unity
+    guid: 16c58fd8d8fb76e439ea6b2ccea07828
+  - enabled: 1
+    path: Assets/Scenes/DoubleTileOnly/doubleHARD.unity
+    guid: 4d60e1b340cb01b4bb817630cfb19b47
+  - enabled: 1
+    path: Assets/Scenes/DoubleTileOnly/double1.unity
+    guid: 0d46b2b632806f949bcba25f0d280caa
+  - enabled: 1
+    path: Assets/Scenes/DoubleTileOnly/samegrid.unity
+    guid: 7d6384b7d9cbcd445a9d6fe7c2844443
+  - enabled: 1
+    path: Assets/Scenes/DoubleTileOnly/skipthendouble.unity
+    guid: 0bf1e9c7ff4bfe94d86e3fb0bfe7afeb
+  - enabled: 1
+    path: Assets/Scenes/DoubleTileOnly/onlyOnce.unity
+    guid: 58bde0e225a139d49a5aa478da3c54e0
+  - enabled: 1
+    path: Assets/Scenes/DoubleTileOnly/doubletrouble.unity
+    guid: 4704650bfea65084998c6a2be4e5cf7a
+  - enabled: 1
+    path: Assets/Scenes/DoubleTileOnly/doubleTrouble2.unity
+    guid: ef34341995af36d43b303ccebde24f17
+  - enabled: 1
+    path: Assets/Scenes/Pause&Double/doublepause.unity
+    guid: 9667cde2aece63e47903a007a8969e69
+  - enabled: 1
+    path: Assets/Scenes/Pause&Double/second.unity
+    guid: 5828194cabd3bcf40a170092b3ec01bd
+  - enabled: 1
+    path: Assets/Scenes/Pause&Double/first.unity
+    guid: f50c491ce36b5da42a35cd0af92c53d7
+  - enabled: 1
+    path: Assets/Scenes/InterferenceOnly/tut.unity
+    guid: 451119a20c27a3847b4c4de272e753db
+  - enabled: 1
+    path: Assets/Scenes/InterferenceOnly/5movetut.unity
+    guid: 8b8f397da32edc7488678c83588147af
+  - enabled: 1
+    path: Assets/Scenes/InterferenceOnly/doubleInterference.unity
+    guid: 300297e041a97e247b70d0c32b0f652f
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: b95b44462cf8d20428c07a0f2dd55189
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 80a8028d0f633ed408cb0f8e49672a65
+  m_configObjects: {}
